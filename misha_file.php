@@ -1,3 +1,3 @@
 <?php
-!fff
+echo '!fff';
 ?>
